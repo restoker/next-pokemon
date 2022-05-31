@@ -16,19 +16,19 @@ const menuItems: Items[] = [
     texto: 'Home',
     href: '/',
   },
-  {
-    texto: 'Contacto',
-    href: '/contacto',
-  },
-  {
-    texto: 'About',
-    href: '/about',
-  },
-  {
-    texto: 'Pricing',
-    href: '/pricing',
-  },
-];
+  //{
+  //  texto: 'Contacto',
+  //  href: '/contacto',
+  //},
+  //{
+  // texto: 'About',
+  //  href: '/about',
+  //},
+  //{
+  //  texto: 'Pricing',
+  //  href: '/pricing',
+  //},
+//];
 
 const Navbar = () => {
   const handleClick = () => {
