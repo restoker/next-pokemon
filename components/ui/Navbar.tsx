@@ -28,7 +28,7 @@ const menuItems: Items[] = [
   //  texto: 'Pricing',
   //  href: '/pricing',
   //},
-//];
+];
 
 const Navbar = () => {
   const handleClick = () => {
